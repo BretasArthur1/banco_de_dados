@@ -1,4 +1,4 @@
-# Documentação do Modelo Relacional - Projeto Abandono Zero
+# Documentação do Modelo Relacional e Físico - Projeto Abandono Zero
 
 **Projeto:** Abandono Zero
 
@@ -7,8 +7,6 @@
 **Autor:** Arthur Bretas Oliveira
 
 **Objetivo:** Este documento oferece uma visão detalhada da arquitetura do banco de dados para o projeto Abandono Zero, que tem como meta principal a organização eficiente dos dados de usuários e as informações relacionadas aos formulários preenchidos por eles, assim como os registros sobre cachorros atuais, passados e futuros desejos de posse. A modelagem detalha todas as entidades envolvidas, especificando seus atributos e as interconexões existentes, o que proporciona um entendimento limpo e sistemático de como os dados são gerenciados e armazenados.
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Abaixo encontra-se os dois arquivos para baixar, sobre a modelagem relacional e a física:
 
 ## Entidades
 
